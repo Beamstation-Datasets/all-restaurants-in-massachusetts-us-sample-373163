@@ -1,0 +1,12 @@
+{
+  "export_job_id": "3707dd31-e1b0-48b1-9d3f-ceb1bdd36333",
+  "id_short": 373163,
+  "published_at": "2026-04-12T07:15:50Z",
+  "repo_name": "all-restaurants-in-massachusetts-us-sample-373163",
+  "sample_asset_name": "beamstation_373163_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/373163/beamstation_373163_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "f78149ddfa6435e9bf2087381e94caec637b5ea8ad2253df47493bc11b429170",
+  "sample_size_bytes": 3265390,
+  "total_records": 16240
+}
