@@ -9,9 +9,9 @@
 | Dataset ID | `373163` |
 | Location | Massachusetts |
 | Category | Restaurants |
-| Full dataset size | 16,240 records |
-| Free sample size | 1,000 records (6.16%) |
-| Last export | 2026-04-07T15:24:10.512442+00:00 |
+| Full dataset size | 16,102 records |
+| Free sample size | 1,000 records (6.21%) |
+| Last export | 2026-04-14T21:52:58.531823+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-massachusetts-us-sample-373163/releases/download/sample-latest/beamstation_373163_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
