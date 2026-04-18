@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across Massachusetts. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Massachusetts, US",
-  "export_job_id": "3707dd31-e1b0-48b1-9d3f-ceb1bdd36333",
+  "export_job_id": "00e58197-3fbc-4b73-ae27-aa6d532a33e2",
   "github_org": "Beamstation-Datasets",
   "id_short": 373163,
   "location_name": "Massachusetts",
   "location_type": "state",
   "repo_name": "all-restaurants-in-massachusetts-us-sample-373163",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/373163/beamstation_373163_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_pct": 6.16,
+  "sample_pct": 6.21,
   "sample_records": 1000,
-  "sample_sha256": "f78149ddfa6435e9bf2087381e94caec637b5ea8ad2253df47493bc11b429170",
-  "sample_size_bytes": 3265390,
-  "total_records": 16240,
-  "updated_at": "2026-04-07T15:24:10.512442+00:00"
+  "sample_sha256": "4bbaac48999a2746dca103551c5f652a33425db0d266ba6f2a995120fef6ec9a",
+  "sample_size_bytes": 3093681,
+  "total_records": 16102,
+  "updated_at": "2026-04-14T21:52:58.531823+00:00"
 }
